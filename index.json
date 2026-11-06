@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-mcp",
+  "versions": [
+    {
+      "commit": "9783c7bb7b9113c64110ff003138dc0251d06d84",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:54:22.000344+00:00"
+    }
+  ]
+}
